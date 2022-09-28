@@ -1,0 +1,98 @@
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0%;
+    }
+    
+    header {
+        background-color: white;
+        font-family: 'Caveat Brush', cursive;
+        font-style: italic;
+        width: 97.5%;
+        position: absolute;
+        padding-left: 2.5%;
+        padding-top: 1.4%;
+        padding-bottom: 4%;
+        z-index: 1;
+    }
+    
+    .headerdiv{
+        margin-left: 14%;
+        margin-top: 0.8%;
+        font-size: 40px;
+    }
+
+    .clipart{
+        width: 9%;
+        position: absolute;
+    }
+   
+    a{
+        color: black;
+        text-decoration: none;
+        background-color: none;
+        margin-right: 4.5%;
+    }
+    
+    .section1{
+        background-color: white;
+        margin-left: 6%;
+        margin-right: 8%;
+        justify-content: center;
+        padding-top: 0.1%;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+ 
+    .section2{
+        background-color: white;
+        margin-left: 6%;
+        margin-right: 8%;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .section3 {
+        background-color: white;
+        margin-left: 6%;
+        margin-right: 8%;
+        justify-content: center;
+        margin-top: -2.8%;
+        padding-top: 5%;
+        padding-left: 2%;
+    }
+
+    h1{
+        font-family: 'Caveat Brush', cursive;
+        font-style: italic;
+        font-size: 43px;
+        margin-bottom: -0.5%;
+    }
+
+    p{
+        font-family: 'Poppins', sans-serif;
+    }
+   
+    .div1 {
+        margin-left: 3%;
+        margin-right: 3%;
+        font-size: 20px;
+    }
+
+    .div2, .div3, .div4 {
+        width: 29%;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .div3{
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+
+
+    .div5, .div6, .div7, .div8, .div9 {
+        display: flex;
+        padding: 2%;
+        font-size: 20px;
+    }
